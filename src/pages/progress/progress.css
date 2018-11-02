@@ -1,0 +1,13 @@
+
+.progress {
+    padding: 36px 12px;
+    background: #c2afaf;
+}
+
+.progress-wrapper {
+    background: #a4bbb0;
+}
+.progress-inner {
+    height: 12px;
+    background: #e28282;
+}
